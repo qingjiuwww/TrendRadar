@@ -1,4 +1,4 @@
-name: Get Hot News
+name: Get Hot News - TrendRadar
 
 on:
   schedule:
